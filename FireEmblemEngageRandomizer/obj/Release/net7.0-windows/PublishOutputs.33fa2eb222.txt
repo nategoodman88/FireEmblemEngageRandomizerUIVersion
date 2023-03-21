@@ -1,0 +1,5 @@
+C:\Programming\C#\C#\FireEmblemEngageRandomizerUIVer\1.0\FireEmblemEngageRandomizer.exe
+C:\Programming\C#\C#\FireEmblemEngageRandomizerUIVer\1.0\FireEmblemEngageRandomizer.dll
+C:\Programming\C#\C#\FireEmblemEngageRandomizerUIVer\1.0\FireEmblemEngageRandomizer.deps.json
+C:\Programming\C#\C#\FireEmblemEngageRandomizerUIVer\1.0\FireEmblemEngageRandomizer.runtimeconfig.json
+C:\Programming\C#\C#\FireEmblemEngageRandomizerUIVer\1.0\FireEmblemEngageRandomizer.pdb
